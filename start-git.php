@@ -83,6 +83,31 @@
        <li>you can use terminal bash for git command or git toolsbar in vscode (+=add,tick=commit)</li>
     </ol>
     
+    <!--git-->
+    <h2>Git Flow</h2>
+    <ol>
+       <li>a statndard for an ideal project/  branching model</li>
+       <li>Main branch = 1-Master(last publish) , 2-Develop(integration branch = final for next release)</li>
+       <li>Supportive branch = 3-Feature branches  4-Release branches(some of fb) 5-Hotfixes(immediate actions)</li>
+    </ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </body>
 </html>

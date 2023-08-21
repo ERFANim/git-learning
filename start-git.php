@@ -99,6 +99,13 @@
        <li>git history extension for diff and log branches</li>
        <li>git reset --hard id = compilitly clean and back</li>
        <li>git reset id = just back and del commit. ! not files</li>
+       <li>git stash = save on branch but not commit(befor checkot stash or commit)</li>
+       <li>git stash list = list of the stash</li>
+       <li>git stash show id = show changes on stash save</li>
+       <li>git stash apply id = back to stash after checkout but not delete the current stash</li>
+       <li>git stash pop id = back to stash after checkout but delete the current stash</li>
+       <li>git stash clear = delete all stash list</li>
+       <li></li>
     </ol>
 
 

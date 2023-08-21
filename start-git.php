@@ -97,6 +97,8 @@
        <li>git show id = show the changes</li>
        <li>git diff master..develop = different of two branch</li>
        <li>git history extension for diff and log branches</li>
+       <li>git reset --hard id = compilitly clean and back</li>
+       <li>git reset id = just back and del commit. ! not files</li>
     </ol>
 
 

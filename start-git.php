@@ -95,8 +95,8 @@
     <h2>Git commend</h2>
     <ol>
        <li>git show id = show the changes</li>
-       <li>Main branch = 1-Master(last publish) , 2-Develop(integration branch = final for next release)</li>
-       <li>Supportive branch = 3-Feature branches  4-Release branches(some of fb) 5-Hotfixes(immediate actions)</li>
+       <li>git diff master..develop = different of two branch</li>
+       <li>git history extension for diff and log branches</li>
     </ol>
 
 

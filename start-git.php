@@ -118,7 +118,20 @@
        <li>git push –u origin master</li>
        <li>git push origin develop</li>
        <li>git clone https://github.com/ERFANim/git-learning.git</li>
+       <li>git pull --rebase origin main</li>
     </ol>
+
+     <!--git-->
+     <h2>Git ignore</h2>
+    <ol>
+       <li>package manager = install packages by bash coommandline(diff for wiche lang)</li>
+       <li>composer package manager for php = creat file(vendor) , package pre need</li>
+       <li>vendor dont need , composer needed for github</li>
+       <li>creat .gitignore , open , wrie file name , to ignore them</li>
+       <li>add ,commit , push</li>
+    </ol>
+
+    
 
 
 

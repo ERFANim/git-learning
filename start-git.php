@@ -128,7 +128,9 @@
        <li>composer package manager for php = creat file(vendor) , package pre need</li>
        <li>vendor dont need , composer needed for github</li>
        <li>creat .gitignore , open , wrie file name , to ignore them</li>
+       <li>gitignore.io = best gitignore for lang</li>
        <li>add ,commit , push</li>
+       <li>composer install = install needed package</li>
     </ol>
 
     

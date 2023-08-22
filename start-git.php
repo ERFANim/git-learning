@@ -108,6 +108,16 @@
        <li></li>
     </ol>
 
+        <!--git-->
+        <h2>Github remote</h2>
+    <ol>
+       <li>git config --local user.name "tntt-co"</li>
+       <li>git config --local user.email asa.web.script@example.com</li>
+       <li>git remote add origin https://github.com/tntt-co/asascript-html.git</li>
+       <li>git remote</li>
+       <li>git push –u origin master</li>
+       <li>git push origin develop</li>
+    </ol>
 
 
 
